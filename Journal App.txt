@@ -1,0 +1,87 @@
+------------------------------------------
+https://developers.giphy.com/
+ricardie777@gmail.com
+ricardo
+0drac1r6194y
+------------------------------------------
+https://create-react-app.dev/
+https://www.npmjs.com/package/prop-types
+https://developer.mozilla.org/es/docs/Web/JavaScript
+
+https://www.npmjs.com/package/enzyme-to-json
+https://github.com/adriantoine/enzyme-to-json
+npm install --save-dev enzyme-to-json
+
+https://enzymejs.github.io/enzyme/
+https://github.com/wojtekmaj/enzyme-adapter-react-17
+npm install --save-dev @wojtekmaj/enzyme-adapter-react-17
+
+https://react-hooks-testing-library.com/installation
+npm install --save-dev @testing-library/react-hooks
+
+https://animate.style/
+https://jestjs.io/docs/asynchronous
+https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
+------------------------------------------
+https://www.npmjs.com/package/http-server
+npm install --global http-server
+http-server -o
+------------------------------------------
+https://getbootstrap.com/
+------------------------------------------
+https://breakingbadapi.com/
+------------------------------------------
+https://v5.reactrouter.com/web/guides/quick-start
+npm install react-router-dom
+-------------------------------------------
+https://reqres.in/api/users?page=2
+--------------------------------------------
+https://www.npmjs.com/package/query-string
+npm install query-string
+-----------------------------------------------
+https://es.redux.js.org/
+https://react-redux.js.org/
+https://github.com/zalmoxisus/redux-devtools-extension#usage
+https://github.com/Klerith/mis-custom-hook/blob/master/useForm/useForm.js
+https://gist.github.com/Klerith/e72502aec987bacb5708589396db3d1a
+https://firebase.google.com/
+https://firebase.google.com/docs/web/modular-upgrade
+https://www.youtube.com/playlist?list=PLCKuOXG0bPi29EkcAuVCln9ISbExcQk66
+https://www.npmjs.com/package/redux-thunk
+https://www.npmjs.com/package/validator
+https://sweetalert2.github.io/
+https://momentjs.com/
+
+npm install react-redux redux
+npm install firebase@8.10.0
+npm install --save redux-thunk
+npm i validator
+npm install moment --save
+
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /{document=**} {
+      allow read, write: if request.auth != null;
+    }
+  }
+}
+----------------------------------------------
+https://cloudinary.com/
+ricardie777@gmail.com
+Chec@11@Cl0ud
+
+react-journal
+get: https://api.cloudinary.com/v1_1/dlesavsfj/upload
+Body -> from-data
+	file type.file : ....jpg
+	upload_preset: react-journal
+-----------------------------------------------
+https://cloudinary.com/documentation/node_integration
+npm install cloudinary --save-dev
+-----------------------------------------------
+npm install node-sass
+consola netcore : 
+git init
+git add .
+git commit -m "comentario"

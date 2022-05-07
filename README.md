@@ -1,4 +1,9 @@
 # Getting Started with Create React App
+React Developer Tools
+
+Redux DevTools
+
+npx create-react-app journal-app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
